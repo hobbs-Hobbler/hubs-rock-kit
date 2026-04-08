@@ -1,6 +1,6 @@
 # hubs-rock-kit
 
-This repository contains some organic rock assets for building scenes in in [Spoke]. In this repo, you will find the Blender files, as well as textures and the deployment script that is used to publish to Spoke. 
+This repository contains some organic rock assets for building scenes in in [Spoke](https://github.com/Hubs-Foundation/Spoke). In this repo, you will find the Blender files, as well as textures and the deployment script that is used to publish to Spoke. 
 
 ![A set of 3d rock models on a grid background](https://github.com/hubs-foundation/hubs-rock-kit/blob/master/assets/RocksInBlender.PNG)
 
